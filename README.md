@@ -1,16 +1,13 @@
-## Hi there 👋
+hey, i'm rohann.
 
-<!--
-**mf9z/mf9z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build open source tools and libraries, mostly around AI infrastructure and software development.
 
-Here are some ideas to get you started:
+### what i'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**buggy** is an open source AI agent that sits in your project and hunts for bugs: security holes, regular code bugs, stuff that needs optimizing. it's bring-your-own-key, so you use your own API key.
+
+repo coming soon.
+
+### other stuff
+
+blog coming soon.
