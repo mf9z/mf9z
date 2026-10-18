@@ -1,4 +1,4 @@
-hey, i'm rohann.
+# hey, i'm rohann.
 
 i build open source tools and libraries, mostly around AI infrastructure and software development.
 
